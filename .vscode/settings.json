@@ -1,20 +1,6 @@
 {
     "java.project.sourcePaths": [
-        "src/main/java/Workbooks/Java-Bootcamp-Resources-main/Module1/Variables/Workbook_2_5_Solution",
-        "src/main/java/Workbooks/Java-Bootcamp-Resources-main/Module1/Variables/Workbook_2_5",
-        "src/main/java/Workbooks/Java-Bootcamp-Resources-main/Module1/Variables/Workbook_2_4_Solution",
-        "src/main/java/Workbooks/Java-Bootcamp-Resources-main/Module1/Variables/Workbook_2_4",
-        "src/main/java/Workbooks/Java-Bootcamp-Resources-main/Module1/Variables/Workbook_2_3_Solution",
-        "src/main/java/Workbooks/Java-Bootcamp-Resources-main/Module1/Variables/Workbook_2_3",
-        "src/main/java/Workbooks/Java-Bootcamp-Resources-main/Module1/Variables/Workbook_2_2_Solution",
-        "src/main/java/Workbooks/Java-Bootcamp-Resources-main/Module1/Variables/Workbook_2_2",
-        "src/main/java/Workbooks/Java-Bootcamp-Resources-main/Module1/Variables/Workbook_2_1_Solution",
-        "src/main/java/Workbooks/Java-Bootcamp-Resources-main/Module1/Variables/Workbook_2_1",
-        "src/main/java/Workbooks/Java-Bootcamp-Resources-main/Module1/Variables/Challenge 2 Solution",
-        "src/main/java/Workbooks/Java-Bootcamp-Resources-main/Module1/Variables/Challenge 2",
-        "src/main/java/Workbooks/Java-Bootcamp-Resources-main/Module1/Variables",
-        "src/main/java/Workbooks/Java-Bootcamp-Resources-main/Module1",
-        "src/main/java/Workbooks",
-        "src/main"
+        "src/main",
+        "SectionOne"
     ]
 }
