@@ -1,5 +1,8 @@
 {
     "java.project.sourcePaths": [
-        "SectionOne"
+        "Workbooks/Workbook_1_1",
+        "SectionOne",
+        "Challenges",
+        "SectionTwo"
     ]
 }
