@@ -1,8 +1,9 @@
 {
     "java.project.sourcePaths": [
-        "Workbooks/Workbook_1_1",
+        "Workbooks",
+        "SectionTwo",
         "SectionOne",
         "Challenges",
-        "SectionTwo"
+        "BootCampTutorials"
     ]
 }
