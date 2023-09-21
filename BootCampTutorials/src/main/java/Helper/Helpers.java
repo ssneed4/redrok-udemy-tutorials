@@ -42,6 +42,13 @@ public interface Helpers {
         return (int)rNumber;
 
     }
+    public static int randomNumber(){
+
+        double rNumber = Math.random() * 50000;
+        //rNumber += 1;
+        return (int)rNumber;
+
+    }
     
 
 }

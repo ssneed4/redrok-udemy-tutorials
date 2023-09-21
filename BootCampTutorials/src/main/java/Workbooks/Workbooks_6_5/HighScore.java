@@ -1,10 +1,14 @@
 package src.main.java.Workbooks.Workbooks_6_5;
-
+import src.main.java.Helper.Helpers;
 
 public class HighScore {
     public static void main(String[] args) {
         int ScoresList[] = new int[10];
         int[] scores = generateScores(ScoresList);
+
+        int myScore = Helpers.randomNumber();
+
+        System.out.println("My Score is: " + myScore);  
 
             try {
                     if(scores != null){
@@ -46,7 +50,7 @@ public class HighScore {
         int score = 0;
 
         for(int i=0; i <ScoresList.length; i++){
-            score = randomNumber();
+            score = Helpers.randomNumber();
             ScoresList[i] = i + score;
         }
 
@@ -54,12 +58,6 @@ public class HighScore {
     }
 
 
-    public static int randomNumber(){
-
-        double rNumber = Math.random() * 50000;
-        //rNumber += 1;
-        return (int)rNumber;
-
-    }
+    
      
 }
